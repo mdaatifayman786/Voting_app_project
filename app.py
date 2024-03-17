@@ -3,7 +3,7 @@ from flask import Flask,render_template,request,redirect,url_for,make_response,j
 import random
 import time
 import pandas as pd
-#all extra function here
+#all extra function herea
 #main = {
 #    "sesion_ID_123" : {
  #       "Question_manager":{
